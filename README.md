@@ -1,5 +1,4 @@
 <h1>Simple Python/Flask Api made using AppFactory Pattern</h1>
-<hr>
 <strong><u>Installation instructions</u></strong>
 <ol>
     <li>Git Clone the Repo</li>
